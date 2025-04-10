@@ -1,0 +1,3 @@
+# Ignorar archivos objeto (.o)
+*.o
+# Ignorar ejecutables p[0-9]*
