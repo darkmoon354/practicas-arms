@@ -1,6 +1,6 @@
 # Prácticas de Ensamblador ARM 🧠💻
 
-Este repositorio contiene una colección de prácticas realizadas en lenguaje ensamblador ARM, desde la práctica 1 hasta la práctica 20. Cada práctica tiene un video demostrativo usando [asciinema](https://asciinema.org).
+Este repositorio contiene una colección de prácticas realizadas en lenguaje ensamblador ARM, desde la práctica 1 hasta la práctica 30. Cada práctica tiene un video demostrativo usando [asciinema](https://asciinema.org).
 
 ## 🎬 Demostraciones por práctica
 
@@ -26,5 +26,13 @@ Este repositorio contiene una colección de prácticas realizadas en lenguaje en
 | `p18`    | [Ver](https://asciinema.org/a/78JQmJhiCnaUyXVWBZXiAN88f) |
 | `p19`    | [Ver](https://asciinema.org/a/nok4sLB35lYq4Sc5bIHSqEH19) |
 | `p20`    | [Ver](https://asciinema.org/a/v8Sozi7wUUrBuDsTtqasZ8ok8) |
-
----
+| `p21`    | [Ver](https://asciinema.org/a/XsAamn7oTJKUycIgNl5detsc0) |
+| `p22`    | [Ver](https://asciinema.org/a/VuhS6IPPkUCWekC2w0d5pqnS1) |
+| `p23`    | [Ver](https://asciinema.org/a/YC0MqiQe1QO4pRdNlGrWJ2POK) |
+| `p24`    | [Ver](https://asciinema.org/a/4vGefYo2TXlDfEjdo2yn5cBHD) |
+| `p25`    | [Ver](https://asciinema.org/a/jvGTolWGZ7ustCoaywLaR9rI1) |
+| `p26`    | [Ver](https://asciinema.org/a/eMmoEJxjCxQn9MOax2YnoHct5) |
+| `p27`    | [Ver](https://asciinema.org/a/0nowRdoHbW0jDhhU3qdsdrIZa) |
+| `p28`    | [Ver](https://asciinema.org/a/qOPcPkFe3RZZdG3T51KiUvA12) |
+| `p29`    | [Ver](https://asciinema.org/a/fBT1QmtSr5uGQ81kEyUusz28a) |
+| `p30`    | [Ver](https://asciinema.org/a/XBKkS3H62HC0vIRhpIF5PSqaU) |
