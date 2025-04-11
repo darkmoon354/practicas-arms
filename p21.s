@@ -1,5 +1,5 @@
 // ===============================================
-// Estudiante y No de control: Cruz Patiño Diego - 22210297
+// Estudiante y No de control: VILLEGAS SUAREZ FRANCSICO JAVIER.
 // Descripción: Programa en ensamblador ARM64 para Operaciones AND, OR, XOR a nivel de bits
 // ===============================================
 
